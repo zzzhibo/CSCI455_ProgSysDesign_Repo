@@ -6,7 +6,7 @@ USC CSCI455 Fall '19 Repository
 
 [Course Piazza](https://piazza.com/class/jzshpzd85sy4tg)
 
-[Course Cloud Lab](https://www.vocareum.com/)
+[Course Cloud Lab(Vocareum)](https://www.vocareum.com/)
 
 [Course Textbook](https://bookshelf.vitalsource.com/#/)
 
