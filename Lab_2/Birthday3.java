@@ -7,7 +7,7 @@ import java.util.Date;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
-public class Birthday {
+public class Birthday3 {
 
     // private static final DateFormat dateFormat = new
     // SimpleDateFormat("M/d/yyyy");
@@ -22,13 +22,13 @@ public class Birthday {
 
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Enter your birth month [1..12]: ");
+        System.out.print("Enter your birth month [1..12]: ");
         int birthmonth = in.nextInt();
 
-        System.out.println("Enter your birth day of month: ");
+        System.out.print("Enter your birth day of month: ");
         int birthday = in.nextInt();
 
-        System.out.println("Enter your birth year [4-digit year]: ");
+        System.out.print("Enter your birth year [4-digit year]: ");
         int birthyear = in.nextInt();
 
         // System.out.println(birthmonth+birthday+birthyear);
