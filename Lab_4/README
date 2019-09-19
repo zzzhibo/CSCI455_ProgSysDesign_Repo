@@ -1,0 +1,52 @@
+Name: Zhibo Wang   
+USC NetID: 7476147450
+CSCI 455 Fall 2019
+Lab 4
+
+Note: On-campus students can put their answers to the lab questions in this file, or use a piece of paper they can show to their lab TA.  DEN students will need to put their answers in this README, so they will get submitted.
+
+Question 1.1 
+Advantages: Generates working software quickly and early during the coding development
+Easier to test and debug during a smaller iteration. 
+Each iteration is an easily managed milestone
+
+Question 2.1 
+It supposed to give minimum value in each sequence 
+
+Question 2.2 
+Min value for an empty array list -> 2147483647 
+
+Question 3.1 
+It supposed to give the values larger than threshold value for each sequence.
+
+Question 3.2 
+test3.in is created as an empty sequence thus the program generates an empty sequence for this test case. 
+
+Question 4.1 
+Any input stream that is not integer
+On windows press Ctrl + Z
+On Linux/Unix press Ctrl + D
+
+Question 4.2
+(nums.valuesGT(...)).printVals();
+The very last one gets executed once the expression inside the parenthesis gets evaluated first.
+
+Question 4.3 
+Nums
+
+Question 4.4 
+Nums temp = new Nums();
+temp = nums.valuesGT(threshold);
+temp.printVals;
+
+Question 4.5 & 4.6 
+ArrayList is variable length, meaning it's resizable. 
+Takes longer time for data entry. Takes more memory.
+
+Question 4.7
+1. Not necessarily. 
+2. No. Unneccessary. 
+3. Again, not necessarily. 
+4. No. A loop will be sufficient to complete the task. 
+5. Yes. A sequence needs to be stored beforehand.
+6. Yes. As why we need to code Num class. 
