@@ -1,0 +1,74 @@
+Name: Zhibo Wang
+USC NetID: 7476147450
+CSCI 455 Fall 2019
+Lab 5
+
+Note: On-campus students can put their answers to the lab questions in this file, or use a piece of paper they can show to their lab TA.  DEN students will need to put their answers in this README, so they will get submitted.
+
+Question 1.1 
+Java Compiler throws the error which gives the exact line of code where the error is coming from
+Exception in thread "main" java.lang.AssertionError
+        at Term.<init>(Term.java:30)
+        at AssertTester.main(AssertTester.java:8)
+
+Question 2.1
+initial round: 20 5 1 9 10
+1st round:     19 4 8 9 5
+2nd round:     18 3 7 8 4 5
+3rd round:     17 2 6 7 3 4 6
+4th round:     16 1 5 6 2 3 5 7
+5th round:     15 4 5 1 2 4 6 8
+6th round:     14 3 4 1 3 5 7 8
+7th round:     13 2 3 2 4 6 7 8
+8th round:     12 1 2 1 3 5 6 7 8
+9th round:     11 1 2 4 5 6 7 9
+10th round:    10 1 3 4 5 6 8 8
+11th round:    9  2 3 4 5 7 7 8
+12th round:    8  1 2 3 4 6 6 7 8
+13th round:    7  1 2 3 5 5 6 7 9
+14th round:    6  1 2 4 4 5 6 8 9
+15th round:    5  1 3 3 4 5 7 8 9
+16th round:    4  2 2 3 4 6 7 8 9
+17th round:    3  1 1 2 3 5 6 7 8 9
+18th round:    2  1 2 4 5 6 7 8 10
+19th round:    1  1 3 4 5 6 7 9 9
+20th round:    2 3 4 5 6 8 8 9
+21st round:    1 2 3 4 5 7 7 8 8
+22nd round:    1 2 3 4 6 6 7 7 9
+23rd round:    1 2 3 5 5 6 6 8 9
+24th round:    1 2 4 4 5 5 7 8 9
+25th round:    1 3 3 4 4 6 7 8 9
+26th round:    2 2 3 3 5 6 7 8 9
+27th round:    1 1 2 2 4 5 6 7 8 9
+28th round:    1 1 3 4 5 6 7 8 10
+29th round:    2 3 4 5 6 7 9 9
+30th round:    1 2 3 4 5 6 8 8 8
+31st round:    1 2 3 4 5 7 7 7 9
+32nd round:    1 2 3 4 6 6 6 8 9
+33rd round:    1 2 3 5 5 5 7 8 9
+34th round:    1 2 4 4 4 6 7 8 9
+35th round:    1 3 3 3 5 6 7 8 9
+36th round:    2 2 2 4 5 6 7 8 9
+37th round:    1 1 1 3 4 5 6 7 8 9
+38th round:    2 3 4 5 6 7 8 10 
+39th round:    1 2 3 4 5 6 7 9 8 
+Final:         1 2 3 4 5 6 7 8 9
+
+Question 2.2 
+declare a partially filled array for card sorting
+int[] xxx = new int[max];
+
+integer
+not negative 
+decks smaller than cards 
+
+Question 2.3 
+1. legal board config. Declare a partially filled array int[] xxx = new int[45]; xxx[0] = ...; xxx[1] = ...;
+2. not a triangular number
+3. legal board config. Declare a partially filled array int[] xxx = new int[45];
+4. not a triangular number
+5. legal board config. Declare a partially filled array int[] xxx = new int[45];
+6. legal triangular number. but technically you can't have negative hand cards in reality 
+7. legal triangular number. int[] xxx = new int[45];
+
+
