@@ -25,7 +25,7 @@ public class ReadTester {
                 System.out.print("Enter a space separated list of numbers: ");
                 continue;
             } else {
-                // System.out.println(usrinput);
+                // System.out.println(usrinput);]
                 // String[] usrinput2 = usrinput.trim().replaceAll(" +", " ").split(" ");
                 String[] usrinput2 = usrinput.split(" ");
                 // List<Integer> list = new ArrayList<Integer>();
