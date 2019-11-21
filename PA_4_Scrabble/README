@@ -1,5 +1,5 @@
-Name: 
-USC NetID: 
+Name: Zhibo Wang
+USC NetID: zhibowan
 CS 455 PA4
 Fall 2019
 
@@ -15,7 +15,7 @@ other students in the course."
 
 Initial below to "sign" the above statement:
 
-
+ZW
 ----------------------------------------------
 ACKNOWLEDGE ANY OUTSIDE SOURCES
 
@@ -36,8 +36,9 @@ KNOWN BUGS or LIMITATIONS:
 ----------------------------------------------
 DESCRIPTION OF YOUR CLASS DESIGN AND ALGORITHMS AND DATA STRUCTURES USED:
 
+For Class description, please see code comments for detailed explaination.
 
-
+For data structures, I mainly used TreeMap and HashMap depending on different application scenarios. Please see code comments for detailed explaination.
 ----------------------------------------------
 ANY OTHER NOTES FOR THE GRADER:
 
