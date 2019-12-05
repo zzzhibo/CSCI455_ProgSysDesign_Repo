@@ -61,6 +61,7 @@ int main()
 
         // memcpy(linenoPT, &buffer[8], 4);
         // areacodePT[4] = '\0';
+
         int index = nameread(buffer, namePT);
         index += 1;
 
