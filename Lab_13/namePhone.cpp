@@ -47,7 +47,8 @@ int main()
         cout << "--------------------" << endl;
         cout << "LINE READ: " << buffer;
 
-        char namePT[MAX_LINE_SIZE];
+        // char namePT[MAX_LINE_SIZE];
+        char *namePT = new char[MAX_LINE_SIZE]();
         char areacodePT[AREA_CODE_SIZE + 1];
         char prefixPT[PREFIX_SIZE + 1];
         char linenoPT[LINE_NO_SIZE + 1];
@@ -71,6 +72,8 @@ int main()
         cout << "area code: " << areacodePT << endl;
         cout << "prefix code: " << prefixPT << endl;
         cout << "line Number: " << linenoPT << endl;
+
+        delete namePT;
     }
 }
 
