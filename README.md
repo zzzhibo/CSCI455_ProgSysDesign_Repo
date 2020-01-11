@@ -10,4 +10,4 @@ USC CSCI455 Fall '19 Repository
 
 [Course Textbook](https://bookshelf.vitalsource.com/#/)
 
-Course In Process 
+Course completed
